@@ -1,0 +1,16 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hugo Enamorado",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "server": "^1.0.19",
+    "start": "^5.1.0"
+  }
+}
